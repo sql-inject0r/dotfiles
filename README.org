@@ -1,0 +1,2 @@
+** My minimal BSPWM config
+- note im still working on my config,since I still have my 12 th grade going on it I don't have a lot of time for linux stuff !
