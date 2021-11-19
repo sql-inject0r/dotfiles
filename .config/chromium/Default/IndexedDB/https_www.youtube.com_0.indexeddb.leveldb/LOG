@@ -1,0 +1,4 @@
+2021/11/18-04:53:46.978 31c1 Reusing MANIFEST /home/m0r1tz/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/18-04:53:46.978 31c1 Recovering log #15
+2021/11/18-04:53:46.989 31c1 Reusing old log /home/m0r1tz/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000015.log 
+2021/11/18-04:53:46.989 31c1 Delete type=2 #14

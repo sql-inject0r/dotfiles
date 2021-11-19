@@ -1,0 +1,40 @@
+{
+   "checksum": "3e8018636ce76390ffc4f212309aa0fb",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13281557391529228",
+            "guid": "87984e27-ee76-4955-a4ce-ba9a4b76c4cc",
+            "id": "5",
+            "name": "Anato Finnstark, artwork, samurai, traditional art, katana, portrait, 2D, smoke, red moon, fantasy art, armor, turquoise | 1920x1371 Wallpaper - wallhaven.cc",
+            "type": "url",
+            "url": "https://wallhaven.cc/w/e78rrw"
+         } ],
+         "date_added": "13281557318129234",
+         "date_modified": "13281557391529228",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13281557318129236",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13281557318129240",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

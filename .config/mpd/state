@@ -1,0 +1,42 @@
+sw_volume: 60
+audio_device_state:1:pulse audio
+audio_device_state:1:ncmpcpp visualizer
+state: stop
+current: 20
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Disaster (320 kbps).mp3
+1:Glock Cock (320 kbps).mp3
+2:DVRST - CLOSE EYES (320 kbps).mp3
+3:Killzone (320 kbps).mp3
+4:$WERVE - young (REUPLOAD) (NEW VOCALS) (320 kbps).mp3
+5:7OH2 - 6IXSPEED (320 kbps).mp3
+6:999 (320 kbps).mp3
+7:ANY DOE (320 kbps).mp3
+8:DVRST - CLOSE EYES (320 kbps).mp3
+9:Disaster (320 kbps).mp3
+10:GOOD JOB (320 kbps).mp3
+11:GTA San Andreas Theme Song ♫ [BEST QUALITY!] (320 kbps).mp3
+12:Glock Cock (320 kbps).mp3
+13:HEELTOE (feat. Kinzentaru) (320 kbps).mp3
+14:I Am So High (320 kbps).mp3
+15:In a Hood Near You (320 kbps).mp3
+16:Jay-Z & Kanye West - Ni as In Paris (Explicit) (320 kbps).mp3
+17:Killzone (320 kbps).mp3
+18:LXST CXNTURY - ODIUM Music Video (320 kbps).mp3
+19:Losing My Love (320 kbps).mp3
+20:PINK GUY - STFU (320 kbps).mp3
+21:Pharmacist - North Memphis [LEGENDADO PT-BR] _ Lyrics (320 kbps).mp3
+22:Phonky Trap (320 kbps).mp3
+23:Playaphonk - PHONKY TOWN (Audio) (320 kbps).mp3
+24:Scary Garry (320 kbps).mp3
+25:Shut the Fuck Up (feat. Pharmacist) (320 kbps).mp3
+26:Swaggin' at the Partment (320 kbps).mp3
+27:What the Fuck (320 kbps).mp3
+playlist_end
